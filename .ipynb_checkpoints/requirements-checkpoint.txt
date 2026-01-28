@@ -1,8 +1,0 @@
-gensim==4.4.0
-joblib==1.5.1
-numpy==2.3.4
-pandas==2.3.3
-scikit_learn==1.7.2
-torch==2.8.0+cu128
-tqdm==4.67.1
-transformers==4.55.3
